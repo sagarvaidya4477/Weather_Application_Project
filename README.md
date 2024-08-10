@@ -20,7 +20,8 @@ This is a Python-based Weather Application built with Tkinter for the GUI and in
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/weather-application.git
+   git clone https://github.com/sagarvaidya4477/Weather_Application_Project.git
+
     cd weather-application
     ```
 
