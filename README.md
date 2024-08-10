@@ -61,7 +61,6 @@ This is a Python-based Weather Application built with Tkinter for the GUI and in
 - **Database.py:** Handles database operations for user authentication.
 - **Api.py:** Contains methods to interact with the weather API.
 - **README.md:** Project documentation.
-- **requirements.txt:** Lists the project's dependencies.
 
 ## API Integration
 
@@ -77,4 +76,4 @@ Contributions are welcome! Please create a pull request with a detailed descript
 
 ## Contact
 
-For any questions or feedback, feel free to reach out to the project maintainer at your-email@example.com.
+For any questions or feedback, feel free to reach out to the project maintainer at vaidyasagar639@gmail.com
