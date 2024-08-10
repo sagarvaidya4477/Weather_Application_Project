@@ -3,7 +3,7 @@ import datetime as dt
 
 class Api:
     def __init__(self):
-        self.api_key = "2fa18fe6ac3c2a956bfca974ea222f40"
+        self.api_key = ""
         self.base_url = "https://api.openweathermap.org/data/2.5/weather"
 
     def get_info_by_city_name(self, city):
